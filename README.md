@@ -8,6 +8,8 @@ Front-end em ReactJs consumindo API Rest em Back-end NodeJS<br />
 3 - npm install<br/>
 4 - npm start<br />
 
+<b>Importate: </b>precisa ter o NodeJS instalando: https://nodejs.org/en/
+
 ### `API NodeJs`
 
 A API Rest que será consumida é da <b>Rocketseat.</b> ( https://rocketseat.com.br/starter )
